@@ -40,7 +40,7 @@ export function Form() {
             React.createElement(
                 'div',
                 null,
-                React.createElement('img', { src: '/img/login.jpg', width: '100', height: '100' })
+                React.createElement('img', { src: '/login.jpg', width: '100', height: '100' })
             ),
             React.createElement(
                 'label',
